@@ -644,6 +644,6 @@ jsonresume:
   - interests
   - references
 
-  imagemagick:
-    enabled: false
+imagemagick:
+  enabled: false
 
