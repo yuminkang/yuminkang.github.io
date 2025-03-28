@@ -645,5 +645,5 @@ jsonresume:
   - references
 
   imagemagick:
-  enabled: false
+    enabled: false
 
