@@ -197,6 +197,7 @@ exclude:
   - _teaching/
   - _repositories/
   - _people/
+  - _pages/publications
 
 keep_files:
   - CNAME
