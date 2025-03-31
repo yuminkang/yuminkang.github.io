@@ -9,10 +9,6 @@ layout: default
 {% endif %}
 
 <header class="post-header">
-  {% unless page.title == "cv" %}
-    <h1 class="post-title">{{ page.title }}</h1>
-  {% endunless %}
-  <p class="post-description">{{ page.description }}</p>
   {% unless page.hide_title %}
     <h1 class="post-title">{{ page.title }}</h1>
   {% endunless %}
