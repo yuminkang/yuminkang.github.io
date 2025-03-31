@@ -7,6 +7,12 @@ nav_order: 3
 cv_pdf: example_pdf.pdf # you can also use external links here
 toc:
   sidebar: left
+header:
+  overlay: false
+  show_overlay_excerpt: false
+  caption: false
+  actions: false
+  show_title: false
 ---
 
 You can find my full <b>Curriculum Vitae (CV)</b> below. <br>
