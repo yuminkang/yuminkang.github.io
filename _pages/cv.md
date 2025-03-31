@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv
+hide_title: true
 nav: true
 nav_order: 3
 cv_pdf: example_pdf.pdf # you can also use external links here
