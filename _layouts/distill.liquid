@@ -96,7 +96,10 @@
         <d-citation-list></d-citation-list>
       </d-appendix>
 
-      <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+      {% if page.bib %}
+        <d-bibliography src="{{ page.bib | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+      {% endif %}
+
 
       {% if site.disqus_shortname and page.disqus_comments %}{% include disqus.liquid %}{% endif %}
       {% if site.giscus.repo and page.giscus_comments %}
