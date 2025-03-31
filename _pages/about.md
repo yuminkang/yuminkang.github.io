@@ -79,6 +79,7 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
     </div>
     <div style="font-size: 0.8rem;">(AI & Data Analytics / IoT Service / Design Engineering)</div>
     <div style="font-size: 0.85rem;">Hanyang University ERICA, Korea</div>
+    <div style="color: #555; font-size: 0.85rem; font-style: italic;">Advisor: Prof. Gyouhyung Kyung</div>
     <div style="color: #555; font-size: 0.75rem;"><i>Mar 2018 – Feb 2022</i></div>
   </div>
 </div>
