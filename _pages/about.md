@@ -29,9 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! 
-
-I’m Yumin Kang, a second-year Ph.D. student at the [Human-Centered Interaction Systems (HCIS) Lab](https://sites.google.com/view/gist-hcis-lab/home?authuser=0), advised by [Prof. SeungJun Kim](https://scholar.google.com/citations?user=AjfRd6wAAAAJ&hl=en&oi=ao). I am currently pursuing my degree in Robotics at the [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/en/main.html). 
+Hi! I’m Yumin Kang, a second-year Ph.D. student at the [Human-Centered Interaction Systems (HCIS) Lab](https://sites.google.com/view/gist-hcis-lab/home?authuser=0), advised by [Prof. SeungJun Kim](https://scholar.google.com/citations?user=AjfRd6wAAAAJ&hl=en&oi=ao). I am currently pursuing my degree in Robotics at the [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/en/main.html). 
 
 My research lies at the intersection of `Human-Computer Interaction (HCI)`, `Autonomous Vehicles (AVs)`, `Ubiquitous Computing`, and `Extended Reality`. I aim to design intelligent systems that support safe, seamless, and intuitive interactions between humans and machines—particularly in the domains of autonomous vehicles and extended reality. My approach combines behavioral analysis, contextual interfaces, and interaction design to enhance mutual understanding and communication between humans and AI agents.
 
