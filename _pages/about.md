@@ -128,10 +128,10 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
 CHI 2025, CHI 2025 LBW, IMWUT 2025 
 
 **Reviewer**<br>
-<b>Papers</b><br>
+<b>Conferences</b><br>
 - CHI 2025, DIS 2025, AutomotiveUI 2024<br>
 
-<b>Journal</b><br>
+<b>Journals</b><br>
 - IMWUT 2025 
 
 <b>Posters</b><br>
