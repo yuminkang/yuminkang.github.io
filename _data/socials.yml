@@ -30,7 +30,7 @@ orcid_id: 0000-0002-5838-8779 # your ORCID ID
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 #rss_icon: true # set to true to show the RSS icon
-scholar_userid: https://scholar.google.com/citations?user=jd3HvVgAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: jd3HvVgAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
