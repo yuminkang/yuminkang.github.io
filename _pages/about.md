@@ -125,11 +125,11 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
 ### Academic Service
 
 **Special Recognition for Outstanding Review**<br>
-CHI 2025, CHI 2025 LBW, IMWUT 2025 
+CHI 2025, CHI 2025 LBW, IMWUT 2025, AutomotiveUI 2025
 
 **Reviewer**<br>
 <b>Conferences</b><br>
-- CHI 2025, DIS 2025, AutomotiveUI 2024<br>
+- CHI 2025, DIS 2025, AutomotiveUI 2024, 2025<br>
 
 <b>Journals</b><br>
 - IMWUT 2025 
