@@ -124,7 +124,7 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
 
 ### Academic Service
 
-**Special Recognition for Outstanding Review**<br>
+**Special Recognitions for Outstanding Reviews**<br>
 CHI 2025, CHI 2025 LBW, IMWUT 2025, AutomotiveUI 2025
 
 **Reviewer**<br>
