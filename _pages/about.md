@@ -129,7 +129,7 @@ CHI 2025, CHI 2025 LBW, IMWUT 2025, AutomotiveUI 2025
 
 **Reviewer**<br>
 <b>Conferences</b><br>
-- CHI 2025, DIS 2025, AutomotiveUI 2024, 2025<br>
+- CHI 2025, DIS 2025, AutomotiveUI 2024/2025<br>
 
 <b>Journals</b><br>
 - IMWUT 2025 
@@ -140,6 +140,9 @@ CHI 2025, CHI 2025 LBW, IMWUT 2025, AutomotiveUI 2025
 **Organizing Committee**  <br>
 <b>Organizer</b>
 - Ubicomp/IWSC 2024 Workshop on [Interpretable, Inclusive, and Immersive Interaction for Ubiquitous AI-infused Physical Systems](https://sites.google.com/view/i4u2024)
+
+**Student Volunteer**  <br>
+- Ubicomp/IWSC 2025
 
 ---
 
