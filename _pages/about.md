@@ -132,7 +132,7 @@ CHI 2026, CHI 2025, CHI 2025 LBW, IMWUT 2025, AutomotiveUI 2025
 - CHI 2025/2026, DIS 2025, AutomotiveUI 2024/2025<br>
 
 <b>Journals</b><br>
-- IMWUT 2025 
+- IMWUT 2025, Scientific Reports
 
 <b>Posters</b><br>
 - CHI 2025 LBW
