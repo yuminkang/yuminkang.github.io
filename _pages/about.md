@@ -125,24 +125,24 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
 ### Academic Service
 
 **Special Recognitions for Outstanding Reviews**<br>
-CHI 2026, CHI 2025, CHI 2025 LBW, IMWUT 2025, AutomotiveUI 2025
+ACM CHI 2025-2026, ACM CHI 2025 LBW, ACM IMWUT 2025, ACM AutomotiveUI 2025
 
 **Reviewer**<br>
 <b>Conferences</b><br>
-- CHI 2025/2026, DIS 2025, AutomotiveUI 2024/2025<br>
+- ACM CHI 2025-2026, ACM DIS 2025, ACM AutomotiveUI 2024-2025<br>
 
 <b>Journals</b><br>
-- IMWUT 2025, Scientific Reports
+- ACM IMWUT 2025, Scientific Reports
 
 <b>Posters</b><br>
-- CHI 2025 LBW
+- ACM CHI 2025 LBW
 
 **Organizing Committee**  <br>
 <b>Organizer</b>
-- Ubicomp/IWSC 2024 Workshop on [Interpretable, Inclusive, and Immersive Interaction for Ubiquitous AI-infused Physical Systems](https://sites.google.com/view/i4u2024)
+- ACM Ubicomp/IWSC 2024 Workshop on [Interpretable, Inclusive, and Immersive Interaction for Ubiquitous AI-infused Physical Systems](https://sites.google.com/view/i4u2024)
 
 **Student Volunteer**  <br>
-- Ubicomp/IWSC 2025
+- ACM Ubicomp/IWSC 2025
 
 ---
 
