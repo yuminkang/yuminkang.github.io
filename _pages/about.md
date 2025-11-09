@@ -139,10 +139,10 @@ ACM CHI 2025-2026, ACM CHI 2025 LBW, ACM IMWUT 2025, ACM AutomotiveUI 2025
 
 **Organizing Committee**  <br>
 <b>Organizer</b>
-- ACM Ubicomp/IWSC 2024 Workshop on [Interpretable, Inclusive, and Immersive Interaction for Ubiquitous AI-infused Physical Systems](https://sites.google.com/view/i4u2024)
+- ACM Ubicomp/ISWC 2024 Workshop on [Interpretable, Inclusive, and Immersive Interaction for Ubiquitous AI-infused Physical Systems](https://sites.google.com/view/i4u2024)
 
 **Student Volunteer**  <br>
-- ACM Ubicomp/IWSC 2025
+- ACM Ubicomp/ISWC 2025
 
 ---
 
