@@ -53,7 +53,7 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
   <div style="margin-bottom: 1rem; line-height: 1.5;">
     <div style="font-size: 1.05rem; display: flex; align-items: center;">
       <img src="/assets/img/icons/gist_logo.png" alt="GIST Logo" style="height: 20px; margin-right: 8px;">
-      <b>Ph.D.</b> in Intelligent Robotics
+      <b>Ph.D.</b>  in Intelligent Robotics
     </div>
     <div style="font-size: 0.85rem;">Gwangju Institute of Science and Technology (GIST), Korea</div>
     <div style="color: #555; font-size: 0.85rem; font-style: italic;">Advisor: Prof. SeungJun Kim</div>
@@ -63,7 +63,7 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
   <div style="margin-bottom: 1rem; line-height: 1.5;">
     <div style="font-size: 1.05rem; display: flex; align-items: center;">
       <img src="/assets/img/icons/gist_logo.png" alt="GIST Logo" style="height: 20px; margin-right: 8px;">
-      <b>M.S.</b> in Intelligent Robotics
+      <b>M.S.</b>  in Intelligent Robotics
     </div>
     <div style="font-size: 0.85rem;">Gwangju Institute of Science and Technology (GIST), Korea</div>
     <div style="color: #555; font-size: 0.85rem; font-style: italic;">Advisor: Prof. SeungJun Kim</div>
@@ -73,7 +73,7 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
   <div style="margin-bottom: 1rem; line-height: 1.5;">
     <div style="font-size: 1.05rem; display: flex; align-items: center;">
       <img src="/assets/img/icons/hanyang_logo.png" alt="Hanyang Logo" style="height: 18px; margin-right: 8px;">
-      <b>B.S.</b> in Media Technology
+      <b>B.S.</b>  in Media Technology
     </div>
     <div style="font-size: 0.8rem;">(AI & Data Analytics / IoT Service / Design Engineering)</div>
     <div style="font-size: 0.85rem;">Hanyang University ERICA, Korea</div>
