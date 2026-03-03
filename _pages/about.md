@@ -29,14 +29,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m Yumin Kang, a second-year Ph.D. student at the [Human-Centered Interaction Systems (HCIS) Lab](https://sites.google.com/view/gist-hcis-lab/home?authuser=0), advised by [Prof. SeungJun Kim](https://scholar.google.com/citations?user=AjfRd6wAAAAJ&hl=en&oi=ao). I am currently pursuing my degree in Robotics at the [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/en/main.html). 
+Hi! I’m Yumin Kang, a third-year Ph.D. student at the [Human-Centered Interaction Systems (HCIS) Lab](https://sites.google.com/view/gist-hcis-lab/home?authuser=0), advised by [Prof. SeungJun Kim](https://scholar.google.com/citations?user=AjfRd6wAAAAJ&hl=en&oi=ao). I am currently pursuing my degree in Robotics at the [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/en/main.html). 
 
-My research lies at the intersection of `Human-Computer Interaction (HCI)`, `Autonomous Vehicles (AVs)`, `Ubiquitous Computing`, and `Extended Reality`. I aim to design intelligent systems that support safe, seamless, and intuitive interactions between humans and machines—particularly in the domains of autonomous vehicles and extended reality. My approach combines behavioral analysis, contextual interfaces, and interaction design to enhance mutual understanding and communication between humans and AI agents.
+My research lies at the intersection of `Human-Computer Interaction (HCI)`, `Autonomous Vehicles (AVs)`, `Ubiquitous Computing`, and `Extended Reality`. I aim to design intelligent systems that support safe, seamless, and intuitive interactions between humans and machines—particularly in the domains of autonomous vehicles and extended reality. My approach combines behavioral analysis and interaction design to enhance mutual understanding and communication between humans and AI agents.
 
 My current projects focus on:  
 - <b>Human-centered design</b> for intelligent systems  
 - <b>Interaction techniques</b> for autonomous vehicles and extended reality environments  
-- <b>Enhancing communication</b> between humans and machines through contextual interfaces
+- <b>Enhancing communication</b> between humans and machines 
 
 Beyond research, I enjoy designing thoughtful user experiences and thinking about how emerging technologies can become meaningfully embedded in our everyday lives. 
 
@@ -135,7 +135,7 @@ ACM CHI 2025-2026, ACM CHI 2025 LBW, ACM IMWUT 2025, ACM AutomotiveUI 2025
 - ACM IMWUT 2025, Scientific Reports
 
 <b>Posters</b><br>
-- ACM CHI 2025 LBW
+- ACM CHI 2025 LBW, ACM CHI 2026 Posters
 
 **Organizing Committee**  <br>
 <b>Organizer</b>
