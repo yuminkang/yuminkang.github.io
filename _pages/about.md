@@ -125,14 +125,14 @@ Please refer to my [publications](/publications/) for more, and feel free to rea
 ### Academic Service
 
 **Special Recognitions for Outstanding Reviews**<br>
-ACM CHI 2025-2026, ACM CHI 2025 LBW, ACM IMWUT 2025, ACM AutomotiveUI 2025
+ACM CHI 2025-2026, ACM CHI 2025 LBW, ACM IMWUT 2025-2026, ACM AutomotiveUI 2025
 
 **Reviewer**<br>
 <b>Conferences</b><br>
 - ACM CHI 2025-2026, ACM DIS 2025, ACM AutomotiveUI 2024-2025<br>
 
 <b>Journals</b><br>
-- ACM IMWUT 2025, Scientific Reports
+- ACM IMWUT 2025-2026, Scientific Reports
 
 <b>Posters</b><br>
 - ACM CHI 2025 LBW, ACM CHI 2026 Posters
