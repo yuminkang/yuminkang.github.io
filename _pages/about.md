@@ -129,7 +129,7 @@ ACM CHI 2025-2026, ACM CHI 2025 LBW, ACM IMWUT 2025-2026, ACM UIST 2026, ACM Aut
 
 **Reviewer**<br>
 <b>Conferences</b><br>
-- ACM CHI 2025-2026, ACM UIST 2026 ACM DIS 2025, ACM AutomotiveUI 2024-2025<br>
+- ACM CHI 2025-2026, ACM UIST 2026, ACM DIS 2025, ACM AutomotiveUI 2024-2026<br>
 
 <b>Journals</b><br>
 - ACM IMWUT 2025-2026, Scientific Reports, Springer Virtual Reality
